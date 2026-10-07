@@ -1,25 +1,23 @@
-# Project-Tracker
-A simple ServiceNow project for creating and tracking project records while practicing ServiceNow fundamentals.
+# Project-Tracker-ServiceNow-PDI
+A basic ServiceNow project built while learning ServiceNow fundamentals.
 
 ## Overview
-Created a basic Project Tracker to store and manage project information in ServiceNow.
+Created a simple Project Tracker to create and manage project records while practicing basic ServiceNow concepts.
 
 ### ServiceNow Concepts & Implementation
 
 #### Custom Table
-Created a table to store project records and related information.
+Created a custom table to store project records.
 
-#### Fields
-Configured fields to capture basic project details.
+#### Fields & Field Types
+Configured fields using different field types such as String, Choice, Date, and Reference to store project information.
 
-#### Form Configuration
-Configured the project form to organize and manage project information.
+#### Form Design
+Used Form Design to organize the form fields and create a neat, user-friendly layout.
 
 ## Screenshots
-
-Screenshots of the Project Tracker table and form.
+Screenshots of the Project Tracker table and form configuration.
 
 ## Tools Used
-
 - ServiceNow PDI
 - Git & GitHub
